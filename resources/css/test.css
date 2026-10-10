@@ -1,0 +1,29 @@
+body {
+    color: #333;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #860d27;
+    text-align: center;
+    margin-top: 10px;
+}
+.button {
+    background-color: #184d85;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.comtainer {
+    display: flex;
+}
+.item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #b65757;
+    background-color: #fff;
+    border-radius: 5px;
+}
